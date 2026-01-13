@@ -1,0 +1,100 @@
+{
+    "beginner_questions": [
+        {
+            "id": "qa_001",
+            "question": "What is menopause and why does it happen?",
+            "answer": "Menopause is when your menstrual periods stop permanently, marking the end of your reproductive years. It typically occurs between ages 45-55, caused by a natural decline in hormone levels (estrogen and progesterone) as your ovaries stop releasing eggs.",
+            "category": "basics",
+            "priority": "high"
+        },
+        {
+            "id": "qa_002",
+            "question": "How long does menopause last?",
+            "answer": "Menopause is a point in time (when periods stop for 12 consecutive months), but the transition (perimenopause) can last 4-8 years. Symptoms like hot flashes or mood changes may continue for some time after menopause, but they vary widely.",
+            "category": "basics",
+            "priority": "high"
+        },
+        {
+            "id": "qa_003",
+            "question": "What can I use to manage menopause symptoms?",
+            "answer": "Options include hormone replacement therapy (HRT), non-hormonal medications, or lifestyle changes like diet and exercise. Cooling products (like fans or gel pads) and breathable clothing can help with hot flashes. Always consult a doctor to find what’s best for you.",
+            "category": "management",
+            "priority": "high"
+        },
+        {
+            "id": "qa_004",
+            "question": "Are hot flashes normal during menopause?",
+            "answer": "Yes, hot flashes are very common! They’re sudden feelings of heat, often in the face, neck, or chest, caused by hormonal changes. Try wearing layers, keeping cool water nearby, or practicing deep breathing to manage them. If they’re severe, talk to a doctor.",
+            "category": "symptoms",
+            "priority": "medium"
+        },
+        {
+            "id": "qa_005",
+            "question": "Why do I feel moody or anxious during menopause?",
+            "answer": "Hormonal fluctuations during menopause can affect your mood, leading to irritability, anxiety, or sadness. This is normal and often temporary. Stress management, regular exercise, and talking to a therapist or doctor can help you feel better.",
+            "category": "symptoms",
+            "priority": "medium"
+        },
+        {
+            "id": "qa_006",
+            "question": "How can I manage sleep problems during menopause?",
+            "answer": "Sleep issues are common due to night sweats or hormonal changes. Try keeping your bedroom cool, using breathable bedding, and maintaining a regular sleep schedule. Avoid caffeine or screens before bed, and consult a doctor if problems persist.",
+            "category": "health",
+            "priority": "high"
+        },
+        {
+            "id": "qa_007",
+            "question": "Is it normal to have irregular periods before menopause?",
+            "answer": "Yes, during perimenopause (the transition to menopause), periods can become irregular—shorter, longer, heavier, or lighter. This is normal, but track your cycles and talk to a doctor if you’re concerned about heavy bleeding or other issues.",
+            "category": "cycle",
+            "priority": "medium"
+        },
+        {
+            "id": "qa_008",
+            "question": "Can I exercise during menopause?",
+            "answer": "Absolutely! Exercise can help with symptoms like mood swings, weight gain, and bone health. Weight-bearing activities like walking, yoga, or strength training are great. Listen to your body and adjust intensity if you feel fatigued.",
+            "category": "lifestyle",
+            "priority": "low"
+        },
+        {
+            "id": "qa_009",
+            "question": "What foods should I eat during menopause?",
+            "answer": "Focus on a balanced diet with calcium-rich foods (like dairy or leafy greens) and vitamin D to support bone health. Include fruits, vegetables, and whole grains. Limit caffeine, alcohol, and spicy foods if they trigger hot flashes. Stay hydrated!",
+            "category": "nutrition",
+            "priority": "low"
+        },
+        {
+            "id": "qa_010",
+            "question": "When should I see a doctor about menopause?",
+            "answer": "See a doctor if you have severe symptoms like intense hot flashes, heavy bleeding, mood changes affecting daily life, or concerns about bone health or heart health. It’s also good to discuss hormone therapy or other treatments to manage symptoms.",
+            "category": "health",
+            "priority": "high"
+        }
+    ],
+    "beginner_tips": [
+        {
+            "id": "tip_001",
+            "title": "Track Your Symptoms",
+            "content": "Keep a journal of your menopause symptoms, like hot flashes, sleep issues, or mood changes. Note their frequency and triggers. This helps you and your doctor understand your experience and find effective solutions.",
+            "category": "tracking"
+        },
+        {
+            "id": "tip_002",
+            "title": "Build a Menopause Toolkit",
+            "content": "Keep cooling wipes, a portable fan, or a water bottle handy for hot flashes. Have comfortable, breathable clothing and consider supplements or medications recommended by your doctor.",
+            "category": "preparation"
+        },
+        {
+            "id": "tip_003",
+            "title": "Don’t Hesitate to Seek Support",
+            "content": "Menopause is a normal phase of life! Talk to friends, family, or a healthcare provider about your experience. Joining a support group can also help you feel less alone.",
+            "category": "support"
+        },
+        {
+            "id": "tip_004",
+            "title": "Prioritize Self-Care",
+            "content": "Every person’s menopause journey is unique. Pay attention to your body’s needs—whether it’s rest, exercise, or stress relief—and adjust your routine to support your well-being.",
+            "category": "self-care"
+        }
+    ]
+}
